@@ -1,0 +1,16 @@
+{
+    "crons": [
+          {
+                  "path": "/api/scraper/monitor-forums",
+                  "schedule": "*/5 * * * *"
+          },
+          {
+                  "path": "/api/check-expansion-triggers",
+                  "schedule": "0 8 * * *"
+          },
+          {
+                  "path": "/api/send-feedback-prompts",
+                  "schedule": "0 * * * *"
+          }
+    ]
+}
