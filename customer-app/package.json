@@ -1,7 +1,7 @@
 {
-  "name": "plumbear-customer-app",
+  "name": "fixr-cu-merr--app",
   "version": "1.0.0",
-  "description": "PlumBear customer booking app",
+  "description": "FIXRR customer booking ap - Get a Fixrrp",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
